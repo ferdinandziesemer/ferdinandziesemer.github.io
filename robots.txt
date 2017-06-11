@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /temp/
+Disallow: /docs/
+
+Sitemap: http://www.ferdinandziesemer.com/sitemap.xml
