@@ -1,4 +1,0 @@
-AuthType Basic 
-AuthName "restricted area 1" 
-AuthUserFile /home/ferdinand/passwords/temp1
-require valid-user
